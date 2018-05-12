@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8154
     wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30263#A-Captain-in-the-RanksA-Romance-of-Affairs
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2009-10-15'
 gutenberg_type: Text
